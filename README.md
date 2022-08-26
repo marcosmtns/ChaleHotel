@@ -1,0 +1,2 @@
+# ChaleHotel
+Site Chalé Hotel.
