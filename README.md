@@ -1,2 +1,2 @@
 # ChaleHotel
-Site Chalé Hotel customizado.
+Site Chalé Hotel.
